@@ -100,10 +100,10 @@
         <settingName>HstsSitesCommunities</settingName>
         <settingValue>false</settingValue>
     </preferences>
-    <preferences>
+    <!--<preferences>
         <settingName>CompileOnDeploy</settingName>
         <settingValue>true</settingValue>
-    </preferences>
+    </preferences>-->
     <preferences>
         <settingName>ReportDataCaptureEnabled</settingName>
         <settingValue>false</settingValue>
