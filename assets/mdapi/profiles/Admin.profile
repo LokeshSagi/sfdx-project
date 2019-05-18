@@ -594,10 +594,7 @@
         <enabled>true</enabled>
         <name>ManageProfilesPermissionsets</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManagePropositions</name>
-    </userPermissions>
+    
     <userPermissions>
         <enabled>true</enabled>
         <name>ManagePvtRptsAndDashbds</name>
