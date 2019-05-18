@@ -102,7 +102,7 @@
     </preferences>
     <preferences>
         <settingName>CompileOnDeploy</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>ReportDataCaptureEnabled</settingName>
