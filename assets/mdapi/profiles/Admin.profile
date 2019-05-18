@@ -703,10 +703,7 @@
         <enabled>true</enabled>
         <name>SolutionImport</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SubmitMacrosAllowed</name>
-    </userPermissions>
+    
     <userPermissions>
         <enabled>true</enabled>
         <name>SubscribeDashboardRolesGrps</name>
