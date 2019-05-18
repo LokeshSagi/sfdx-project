@@ -387,10 +387,7 @@
         <enabled>true</enabled>
         <name>EditHtmlTemplates</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>EditKnowledge</name>
-    </userPermissions>
+
     <userPermissions>
         <enabled>true</enabled>
         <name>EditMyDashboards</name>
