@@ -231,8 +231,8 @@
         <enabled>true</enabled>
         <name>AddDirectMessageMembers</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>>
+    <userPermissions>        
+        <enabled>true</enabled>
         <name>ApexRestServices</name>
     </userPermissions>
     <userPermissions>
